@@ -1,0 +1,8 @@
+C:\Users\gabrieldelsasso\source\repos\TesteDeMesaPOO2\TesteDeMesaPOO2\bin\Debug\TesteDeMesaPOO2.exe.config
+C:\Users\gabrieldelsasso\source\repos\TesteDeMesaPOO2\TesteDeMesaPOO2\bin\Debug\TesteDeMesaPOO2.exe
+C:\Users\gabrieldelsasso\source\repos\TesteDeMesaPOO2\TesteDeMesaPOO2\bin\Debug\TesteDeMesaPOO2.pdb
+C:\Users\gabrieldelsasso\source\repos\TesteDeMesaPOO2\TesteDeMesaPOO2\obj\Debug\TesteDeMesaPOO2.csproj.AssemblyReference.cache
+C:\Users\gabrieldelsasso\source\repos\TesteDeMesaPOO2\TesteDeMesaPOO2\obj\Debug\TesteDeMesaPOO2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabrieldelsasso\source\repos\TesteDeMesaPOO2\TesteDeMesaPOO2\obj\Debug\TesteDeMesaPOO2.csproj.CoreCompileInputs.cache
+C:\Users\gabrieldelsasso\source\repos\TesteDeMesaPOO2\TesteDeMesaPOO2\obj\Debug\TesteDeMesaPOO2.exe
+C:\Users\gabrieldelsasso\source\repos\TesteDeMesaPOO2\TesteDeMesaPOO2\obj\Debug\TesteDeMesaPOO2.pdb
